@@ -120,7 +120,7 @@
 		"obsoleteTech": "Mobile Tactics",
         "requiredResources":{"Horse":2},
 		"attackSound": "shot",
-		"uniques": ["[+200]% Strength <vs [Armored] units> <when defending>", "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>" ]
+		"uniques": ["cunsumes [1] [Iron]", "[+200]% Strength <vs [Armored] units> <when defending>", "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>" ]
 	},
   	{
 		"name": "Great War Bomber",
@@ -169,7 +169,7 @@
 		"strength": 65,
 		"rangedStrength": 85,
 		"range": 6,
-		"cost": 320,
+		"cost": 550,
 		"requiredTech": "Dynamite",
          "requiredResource": "Iron",
 		"uniques": ["No defensive terrain bonus",

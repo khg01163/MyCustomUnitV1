@@ -90,7 +90,7 @@
 		"obsoleteTech": "Rocketry",
         "requiredResource": {
           "Coal":2, 
-          "Horse"
+          "Horse":1
         },
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>", "[+550]% Strength <vs [Helicopter] units> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
@@ -104,7 +104,7 @@
 		"rangedStrength": 90,
 		"cost": 360,
 		"requiredTech": "Dynamite",
-        "requiredResourse": {"Horse":2},
+        "requiredResource": {"Horse":2},
 		"attackSound": "machinegun",
 		"uniques": ["[+200]% Strength <vs [Gunpowder] units> <when attacking>"]
 		// Upgrades to Bazooka in BNW

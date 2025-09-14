@@ -61,7 +61,7 @@
 		"rangedStrength": 75,
 		"cost": 400,
 		"requiredTech": "Dynamite",
-		"requiredResource": "Aluminum",
+		"requiredResource": {"Aluminum":1},
 		"obsoleteTech": "Combined Arms",
 		"uniques": ["[-2] Sight", "[+500]% Strength <vs [Gunpowder] units> <when defending>","[+500]% Strength <vs [Ranged Gunpowder] units> <when defending>", "Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"

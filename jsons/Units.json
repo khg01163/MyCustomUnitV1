@@ -160,7 +160,7 @@
 		"requiredTech": "Dynamite",
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot",
-		"uniques": ["[+200]% Strength <vs [Armored] units> <when defending>", "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>" ]
+		"uniques": ["consumes [1] [Iron]","[+200]% Strength <vs [Armored] units> <when defending>", "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>" ]
 	},
   	{
 		"name": "Artillery",

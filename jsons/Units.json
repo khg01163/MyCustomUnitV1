@@ -8,7 +8,7 @@
 		"strength": 60,
 		"cost": 450,
 		"requiredTech": "Dynamite",
-        "requiredResource": ["Coal","Iron"],
+        "requiredResource": "Coal",
 		"uniques": ["[+300]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},

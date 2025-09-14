@@ -8,7 +8,7 @@
 		"strength": 60,
 		"cost": 450,
 		"requiredTech": "Dynamite",
-        "requiredResource": {"Coal":2},
+        "requiredResource": ["Coal":[2]],
 		"uniques": ["[+300]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},
@@ -48,7 +48,7 @@
 		"interceptRange": 4,
 		"cost": 700,
 		"requiredTech": "Dynamite",
-		"requiredResources": ["Oil":3, "Iron":1],
+		"requiredResources": {"Oil":3, "Iron":1},
 		"uniques": ["[+2] Sight", "[+200]% Strength <when defending>", "[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "machinegun"
 	},

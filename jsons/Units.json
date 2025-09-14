@@ -90,7 +90,7 @@
 		"rangedStrength": 90,
 		"cost": 360,
 		"requiredTech": "Dynamite",
-        "requiredResource": "Horse",
+        "requiredResource": "Horses",
 		"attackSound": "machinegun",
 		"uniques": ["[+200]% Strength <vs [Gunpowder] units> <when attacking>"]
 		// Upgrades to Bazooka in BNW
@@ -118,7 +118,7 @@
 		"cost": 300,
 		"requiredTech": "Dynamite",
 		"obsoleteTech": "Mobile Tactics",
-        "requiredResource":"Horse",
+        "requiredResource":"Horses",
 		"attackSound": "shot",
 		"uniques": [ "[+200]% Strength <vs [Armored] units> <when defending>", "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>" ]
 	},

@@ -8,9 +8,9 @@
 		"strength": 60,
 		"cost": 450,
 		"requiredTech": "Dynamite",
-    "requiredResource": {
-      "Coal":2
-    },
+        "requiredResource": {
+          "Coal":2
+        },
 		"uniques": ["[+300]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},
@@ -24,8 +24,8 @@
 		"cost": 1200,
 		"requiredTech": "Dynamite",
 		"requiredResource": {
-      "Aluminum":3,
-      "Oil":1
+          "Aluminum":3,
+          "Oil":1
     },
 		"uniques": ["[+500]% Strength <vs [Gunpowder] units> <when defending>","[+500]% Strength <vs [Ranged Gunpowder] units> <when defending>","Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
@@ -40,8 +40,8 @@
 		"cost": 700,
 		"requiredTech": "Dynamite",
 		"requiredResource": {
-      "Oil":3,
-      "Iron":1
+          "Oil":3,
+          "Iron":1
     },
 		"attackSound": "bombing",
 		"uniques": ["[+200]% Strength <when defending>","[+200]% Strength <vs [Armored] units> <when attacking>"]
@@ -57,8 +57,8 @@
 		"cost": 700,
 		"requiredTech": "Dynamite",
 		"requiredResource": {
-      "Oil":3,
-      "Iron":1
+          "Oil":3,
+          "Iron":1
     },
 		"uniques": ["[+2] Sight", "[+200]% Strength <when defending>", "[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "machinegun"
@@ -88,10 +88,10 @@
 		"cost": 450,
 		"requiredTech": "Dynamite",
 		"obsoleteTech": "Rocketry",
-    "requiredResource": {
-      "Coal":2, 
-      "Horse"
-    },
+        "requiredResource": {
+          "Coal":2, 
+          "Horse"
+        },
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>", "[+550]% Strength <vs [Helicopter] units> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},
@@ -104,7 +104,7 @@
 		"rangedStrength": 90,
 		"cost": 360,
 		"requiredTech": "Dynamite",
-    "requiredResourse": {"Horse":2},
+        "requiredResourse": {"Horse":2},
 		"attackSound": "machinegun",
 		"uniques": ["[+200]% Strength <vs [Gunpowder] units> <when attacking>"]
 		// Upgrades to Bazooka in BNW
@@ -132,7 +132,7 @@
 		"cost": 300,
 		"requiredTech": "Dynamite",
 		"obsoleteTech": "Mobile Tactics",
-    "requiredResource":{"Horse":2},
+        "requiredResource":{"Horse":2},
 		"attackSound": "shot",
 		"uniques": ["[+200]% Strength <vs [Armored] units> <when defending>", "[+100]% Strength <vs [Ranged Gunpowder] units> <when attacking>" ]
 	},
@@ -185,7 +185,7 @@
 		"range": 6,
 		"cost": 320,
 		"requiredTech": "Dynamite",
-    "requiredResource": "Iron",
+         "requiredResource": "Iron",
 		"uniques": ["No defensive terrain bonus",
 			"Must set up to ranged attack","[-2] Sight", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
